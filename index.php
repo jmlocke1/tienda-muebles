@@ -1,32 +1,9 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>ECommerce - Home</title>
-	<link rel="stylesheet" href="css/normalize.css">
-	<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@400;700;900&display=swap" rel="stylesheet"> -->
-	<link rel="stylesheet" href="css/app.css">
-</head>
-<body>
-	<header>
-		<h1 class="nombre-sitio">Tienda <span>Muebles</span></h1>
-	</header>
-	<div class="contenedor-navegacion">
-		<nav class="nav-principal contenedor">
-			<a href="index.html">Inicio</a>
-			<a href="nosotros.html">Nosotros</a>
-			<a href="tienda.html">Tienda</a>
-			<a href="blog.html">Blog</a>
-			<a href="galeria.html">Galería</a>
-			<a href="contacto.html">Contacto</a>
-		</nav>
-	</div>
-	
+<?php 
+$titulo = "Home";
+include "templates/header.php"; 
+?>
 
-	<div class="hero"></div>
+<div class="hero"></div>
 	
 	<section class="contenedor categorias">
 		<h2 class="text-center">Categorías de Productos</h2>
@@ -131,43 +108,5 @@
 			</div> <!-- Producto -->
 		</div>	<!-- Fin de listado de productos -->
 	</main>
-	
-	
-	
-	<footer>
-		<div>
-			<h3>Categorías</h3>
 
-			<nav>
-				<a href="#">Cocina</a>
-				<a href="#">Oficina</a>
-				<a href="#">Jardín</a>
-				<a href="#">Cochera</a>
-				<a href="#">Dormitorios</a>
-			</nav>
-		</div>
-		<div>
-			<h3>Sobre Nosotros</h3>
-
-			<nav>
-				<a href="#">Nuestra Historia</a>
-				<a href="#">Misión, Visión y Valores</a>
-				<a href="#">Carreras</a>
-				<a href="#">Política de Privacidad</a>
-				<a href="#">Términos del Servicio</a>
-			</nav>
-		</div>
-		<div>
-			<h3>Soporte</h3>
-
-			<nav>
-				<a href="#">Preguntas Frecuentes</a>
-				<a href="#">Ayuda en Línea</a>
-				<a href="#">Confianza y Seguridad</a>
-			</nav>
-		</div>
-
-		<p>Todos los derechos reservados. TiendaMuebles</p>
-	</footer>
-</body>
-</html>
+<?php include "templates/footer.php" ?>
