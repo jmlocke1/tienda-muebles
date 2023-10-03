@@ -31,6 +31,9 @@ include "templates/header.php";
 			<div class="texto-nosotros">
 				<h2>Sobre Nosotros</h2>
 				<p>Architecto sed qui vero eos odit libero iste! Aspernatur quasi, facilis omnis odio sunt accusantium illum suscipit et voluptatum est earum aut dolorem cum magni? Architecto facere aperiam incidunt ipsa! Molestias quaerat debitis soluta voluptate ad asperiores quae voluptates, sit itaque?</p>
+				<p>Architecto sed qui vero eos odit libero iste! Aspernatur quasi, facilis omnis odio sunt accusantium illum suscipit et voluptatum est earum aut dolorem cum magni? Architecto facere aperiam incidunt ipsa! Molestias quaerat debitis soluta voluptate ad asperiores quae voluptates, sit itaque?</p>
+				<p>Architecto sed qui vero eos odit libero iste! Aspernatur quasi, facilis omnis odio sunt accusantium illum suscipit et voluptatum est earum aut dolorem cum magni? Architecto facere aperiam incidunt ipsa! Molestias quaerat debitis soluta voluptate ad asperiores quae voluptates, sit itaque?</p>
+				<p>Architecto sed qui vero eos odit libero iste! Aspernatur quasi, facilis omnis odio sunt accusantium illum suscipit et voluptatum est earum aut dolorem cum magni? Architecto facere aperiam incidunt ipsa! Molestias quaerat debitis soluta voluptate ad asperiores quae voluptates, sit itaque?</p>
 			</div>
 			
 		</div>
