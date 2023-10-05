@@ -376,6 +376,14 @@ img {
 	flex-direction: column;
 	justify-content: center;
 }
+.informacion-nosotros {
+	padding: 5rem;
+}
+@media(min-width: 768px) {
+	.informacion-nosotros {
+		padding: 0;
+	}
+}
 
 /** Blog **/
 .contenedor-blog {
