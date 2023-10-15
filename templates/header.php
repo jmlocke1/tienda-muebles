@@ -16,11 +16,12 @@
 	</header>
 	<div class="contenedor-navegacion">
 		<nav class="nav-principal contenedor">
-			<a href="index.php">Inicio</a>
-			<a href="nosotros.php">Nosotros</a>
-			<a href="tienda.php">Tienda</a>
-			<a href="blog.php">Blog</a>
-			<a href="galeria.php">Galería</a>
-			<a href="contacto.php">Contacto</a>
+			<a href="/" title="Vuelve al portafolio de José Miguel">Portfolio</a>
+			<a href="index.php" title="Página principal de la tienda">Inicio</a>
+			<a href="nosotros.php" title="Información sobre nuestra empresa">Nosotros</a>
+			<a href="tienda.php" title="Productos que tenemos en inventario">Tienda</a>
+			<a href="blog.php" title="Blog de Tienda Muebles">Blog</a>
+			<a href="galeria.php" title="Galería de fotos">Galería</a>
+			<a href="contacto.php" title="Contacta con nosotros cualquier duda que tengas">Contacto</a>
 		</nav>
 	</div>
