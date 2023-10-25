@@ -8,7 +8,7 @@ include "templates/header.php";
 	<section class="contenedor categorias">
 		<h2 class="text-center">Categorías de Productos</h2>
 
-		<div class="listado-categorias">
+		<div class="listado-categorias" >
 			<div class="categoria">
 				<img src="img/categoria1.jpg" alt="Imagen categoría 1" title="Imagen categoría 1">
 				<a href="#">Oficina</a>
